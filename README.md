@@ -1,6 +1,6 @@
 # node-today
 
-Today in Jalali and Gregorian Format 
+Today in Jalali and Gregorian Format using Moment.js
 
 How To:
 1. clone the repository
