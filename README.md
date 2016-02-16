@@ -1,2 +1,1 @@
 # node-today
-today date
