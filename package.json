@@ -1,0 +1,26 @@
+{
+  "name": "node-today",
+  "version": "1.0.0",
+  "description": "",
+  "main": "today.js",
+  "dependencies": {
+    "moment-jalali": "^0.3.9",
+    "moment": "^2.11.1",
+    "moment-timezone": "^0.5.0"
+  },
+  "scripts": {
+    "start": "clear && node today",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arefm/node-today.git"
+  },
+  "keywords": "node,today,date,cli",
+  "author": "Aref Mirhosseini <code@arefmirhosseini.com> (http://arefmirhosseini.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arefm/node-today/issues"
+  },
+  "homepage": "https://github.com/arefm/node-today#readme"
+}
